@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caça-palavras", "Caça-palavras\Caça-palavras.csproj", "{9FEDA9B0-21B5-4158-9D0E-8C9A5F596794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FEDA9B0-21B5-4158-9D0E-8C9A5F596794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEDA9B0-21B5-4158-9D0E-8C9A5F596794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEDA9B0-21B5-4158-9D0E-8C9A5F596794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEDA9B0-21B5-4158-9D0E-8C9A5F596794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D413F34-48DF-4BF4-BC52-1AF190D0C1DC}
+	EndGlobalSection
+EndGlobal
